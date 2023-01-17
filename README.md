@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, 
+I am Maryam. I graduated with a degree in Computer Software Development from Northen Alberta Institute of Technology. I am a database and software developer. I love working with data and develop applications.  
 
 <!--
 **mrostamali/mrostamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
